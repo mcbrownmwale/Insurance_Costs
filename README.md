@@ -1,7 +1,5 @@
 # Medical Insurance Cost Prediction
 
-![Insurance Concept](https://via.placeholder.com/800x400?text=Insurance+Cost+Prediction) <!-- Consider adding a relevant image -->
-
 ## 📌 Overview
 This project analyzes factors affecting medical insurance costs and builds a predictive model using linear regression. The model predicts insurance charges based on patient demographics, with a focus on age and smoking status.
 
